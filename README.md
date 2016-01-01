@@ -1,6 +1,10 @@
 nodemcu-devkit
 ==============
 
+This is history.
+
+New board is NodeMCU-DEVKIT-V1.0, see also https://github.com/nodemcu/nodemcu-devkit-v1.0
+
 A development kit for NodeMCU firmware.
 
 It will make NodeMCU more easy. With a micro USB cable, you can connect NodeMCU devkit to your laptop and flash it without any trouble, just like Arduino.
